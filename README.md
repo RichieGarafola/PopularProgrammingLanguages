@@ -1,6 +1,6 @@
 # Popular Programming Languages
 
-In this study we will explore which programming language is most popular according to Google Trends. 
+### In this study we will explore which programming language is most popular according to Google Trends. 
 
 - Request data from Google Trends
 - Extract data by using key words in a list (Search is limited to 5 words at a time)
